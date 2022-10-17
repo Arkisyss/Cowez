@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning in web dev and cyber security
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail adress: benjamincowez.pro@gmail.com / Linkedin profile :www.linkedin.com/in/benjamin-cowez
+- 📫 How to reach me mail adress: benjamincowez.pro@gmail.com / Linkedin profile: www.linkedin.com/in/benjamin-cowez
 
 
 <!---
