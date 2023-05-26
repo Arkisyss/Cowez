@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Cowez
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning in web dev and cyber security
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning in cyber security
 - 📫 How to reach me mail adress: benjamincowez.pro@gmail.com / Linkedin profile: www.linkedin.com/in/benjamin-cowez
 
 
