@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Cowez
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning in cyber security
-- 📫 How to reach me mail adress: benjamincowez.pro@gmail.com / Linkedin profile: www.linkedin.com/in/benjamin-cowez
+- 👋 Hi, I’m @Arkisyss
+- 👀 I’m Junior at Cybersecurity
+- 📚 I'm learning cybersecurity at BeCode
+- 📫 You can contact me at : benjamincowez.pro@gmail.com / Linkedin : www.linkedin.com/in/benjamin-cowez
+- My profile on TryHackMe :
 - <img src="https://tryhackme-badges.s3.amazonaws.com/Arkisyss.png" alt="TryHackMe">
 
 <!---
